@@ -1,2 +1,2 @@
 # xv6-colorsGUI
-Modified xv6 OS. Foreground and background color GUI manipulation implemented.
+Modified xv6 OS. GUI for foreground and background color manipulation implemented.
